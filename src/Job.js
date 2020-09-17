@@ -37,7 +37,6 @@ export default function Job({ job }) {
           </div>
         </Collapse>
       </Card.Body>
-      {job.title}
     </Card>
   )
 }
